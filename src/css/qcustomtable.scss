@@ -1,0 +1,11 @@
+.qcustom-table {
+    .header-left {
+        text-align:left;
+    }
+    .q-table thead tr, .q-table tbody td {
+        height: 65px;
+    }
+    .q-field__control {
+        height: 44px;
+    }
+}
